@@ -1,6 +1,6 @@
 # LotrConquestServerListService
 
-WCF Service which is used to load the server list of The Lord of the Rings: Conquest in a LAN setup and provide an JSON API.
+.NET WCF Service which is used to load the server list of The Lord of the Rings: Conquest in a LAN setup and provide an JSON API.
 Corresponding frontend is [LotrConquestServerListWebsite](https://github.com/Teamoh/LotrConquestServerListWebsite).
 
 ## Screenshot
